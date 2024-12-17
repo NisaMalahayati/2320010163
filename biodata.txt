@@ -1,1 +1,3 @@
-NO.REG : 2320010163 Nama : Nisa Malahayati
+NO.REG : 2320010163 
+Nama : Nisa Malahayati
+jurusan: Tknologi Informasi
